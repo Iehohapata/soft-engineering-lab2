@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmychka_yhr_kp_32_docs=self.webpackChunkmychka_yhr_kp_32_docs||[]).push([[3381],{1753:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/soft-engineering-lab2/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

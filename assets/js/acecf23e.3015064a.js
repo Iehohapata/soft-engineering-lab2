@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmychka_yhr_kp_32_docs=self.webpackChunkmychka_yhr_kp_32_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/soft-engineering-lab2/blog","blogTitle":"Blog"}')}}]);
