@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Iehohapata.github.io/soft-engineering-lab2/blog</id>
-    <title>My Site Blog</title>
+    <title>Kuchmii's site Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Iehohapata.github.io/soft-engineering-lab2/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Kuchmii's site Blog</subtitle>
     <icon>https://Iehohapata.github.io/soft-engineering-lab2/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
