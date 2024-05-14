@@ -19,6 +19,11 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
+            to="https://github.com/Iehohapata">
+            🔵 Гітхаб студента 🔵
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
             to="https://github.com/donderet">
             🤯 Дондерет (геній) 🤯
           </Link>
